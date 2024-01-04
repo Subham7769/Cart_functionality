@@ -16,7 +16,7 @@ main {
   grid-template-columns: repeat(3, 1fr);
   gap: 0.5rem;
   flex: 0.7;
-  min-width: 68vw;
+  min-width: 69vw;
   max-width: 70vw;
   height: 75vh;
   overflow-y: scroll;
@@ -26,7 +26,7 @@ main {
 }
 .cartSection {
   flex: 0.3;
-  min-width: 23vw;
+  min-width: 24vw;
   max-width: 25vw;
   background-color: black;
   color: white;
