@@ -17,6 +17,7 @@ main {
   gap: 0.5rem;
   flex: 0.7;
   min-width: 65vw;
+  max-width: 70vw;
   height: 75vh;
   overflow-y: scroll;
 }
@@ -26,6 +27,7 @@ main {
 .cartSection {
   flex: 0.3;
   min-width: 20vw;
+  max-width: 25vw;
   background-color: black;
   color: white;
   display: flex;
