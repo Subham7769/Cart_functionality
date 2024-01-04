@@ -1,0 +1,14 @@
+main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 1.5rem 2.5rem;
+    flex-direction: column;
+    gap: 1rem;
+}
+.AllProducts{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    gap: 0.5rem;
+    width: 90%;
+}
